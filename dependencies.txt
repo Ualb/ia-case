@@ -1,0 +1,6 @@
+*ingresar el comando para instalar la dependencias
+se debe tener instalado el manejador de dependencias pip*
+
+pip install torch torchvision -f https://download.pytorch.org/whl/torch_stable.html   
+
+* si no ha funcionado el anterior comando se debe instalar CONDA*
